@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "http://1.2.3.4"
+    "address": "https://c7d93fae-9ebf-4cb4-a456-6e49b3503233.us-southeast-2.linodelke.net:443"
   }
 }
